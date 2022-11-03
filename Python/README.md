@@ -11,3 +11,9 @@ I'm not calling it Dave.
 2:45pm - Getting VSCode, WSL and GitHub to run in harmony is a complete pain in the ass.
 
 2:58pm - Had more spelling errors in this Readme than a copy of the combined works of Shakespeare would have if a basketball had been launched at the keyboard with such force only the Looney Tunes could achieve.
+
+When I think of something. I'll add it to the list of ideas.
+
+Ideas:
+    - A Twitter bot with a loathing of printers rivalled only by people called William who work in tech support. He knows exaclty who he is.
+    - ???
