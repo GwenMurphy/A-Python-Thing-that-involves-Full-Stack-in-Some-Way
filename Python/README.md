@@ -18,4 +18,4 @@ Ideas:
     
     - A Twitter bot with a loathing of printers rivalled only by people called William who work in tech support. He knows exaclty who he is.
     
-    - ???
+    - THINK OF MORE IDEAS, GWEN, THEN DO random.randint(1,len(idea_list)) ON IT
